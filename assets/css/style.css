@@ -195,7 +195,7 @@ section {
 .section-title {
   font-size: 48px;
   border-bottom: 3px solid;
-  color: ;
+  color: var(--secondary-color);
   padding-bottom: 20px;
   text-align: center;
   margin: 0 auto 35px auto;
